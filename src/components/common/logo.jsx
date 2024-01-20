@@ -13,7 +13,7 @@ const Logo = (props) => {
 	}
 
 	const imageElement = (
-		<img src={INFO.main.logo} alt="logo" className="logo" width={width} />
+		<img src="https://img.icons8.com/external-others-inmotus-design/270/external-Avatar-avatars-others-inmotus-design-26.png" alt="logo" className="logo" width={width} />
 	);
 
 	return (

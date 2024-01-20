@@ -3,7 +3,6 @@ const INFO = {
 		title: "Portfolio",
 		name: "Bogdan Kapriyan",
 		email: "bogdankapriyanua@gmail.com",
-		logo: "../logo.png",
 	},
 
 	socials: {

@@ -15,7 +15,6 @@ import Footer from "../components/common/footer";
 import NavBar from "../components/common/navBar";
 import Works from "../components/homepage/works";
 import AllProjects from "../components/projects/allProjects";
-
 import INFO from "../data/user";
 import SEO from "../data/seo";
 import "./styles/homepage.css";
@@ -104,7 +103,7 @@ const Homepage = () => {
 								<div className="homepage-image-container">
 									<div className="homepage-image-wrapper">
 										<img
-											src="homepage.jpg"
+											src="https://kartinki.pibig.info/uploads/posts/2023-08/thumbs/1692199091_kartinki-pibig-info-p-kartinka-serii-chelovek-oboi-11.jpg"
 											alt="about"
 											className="homepage-image"
 										/>
