@@ -21,11 +21,11 @@ function App() {
 	return (
 		<div className="App">
 			<Routes>
-				<Route path="/" element={<Homepage />} />
-				<Route path="/about" element={<About />} />
-				<Route path="/projects" element={<Projects />} />
-				<Route path="/contact" element={<Contact />} />
-				<Route path="*" element={<Homepage />} />
+				<Route path="/portfolio-react/" element={<Homepage />} />
+				<Route path="/portfolio-react/about" element={<About />} />
+				<Route path="/portfolio-react/projects" element={<Projects />} />
+				<Route path="/portfolio-react/contact" element={<Contact />} />
+				<Route path="/portfolio-react/*" element={<Homepage />} />
 			</Routes>
 		</div>
 	);
