@@ -2,5 +2,5 @@ This portfolio is written in React, there are 4 sections on the home page with i
 ## Deployment 🚀
 - **Enter the comamnd:** `npm install` and wait for the initial setup.
 - **For run, enter the command:** `npm run start`.
-## Website -  https://recountsxxx.github.io/portfolio-react/**
+## Website -  https://recountsxxx.github.io/portfolio-react
 <img src="https://i.imgur.com/X1KVdJA.png">
